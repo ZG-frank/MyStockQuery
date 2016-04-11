@@ -1,0 +1,18 @@
+.wrapper {
+    /*position: absolute;*/
+	margin: 1em 5%;
+}
+
+.indent {
+	text-indent: 2em;
+}
+
+form input {
+	width: 30em;
+}
+
+.table-hover > tbody > tr:hover > td,
+.table-hover > tbody > tr:hover > th {
+	/* 默认是 #f5f5f5 */
+	background-color: #dddddd;
+}
